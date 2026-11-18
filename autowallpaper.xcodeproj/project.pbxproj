@@ -1,0 +1,567 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		42094E5B30ADBADC00BD2247 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 42094E4130ADBADB00BD2247 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 42094E4830ADBADB00BD2247;
+			remoteInfo = autowallpaper;
+		};
+		42094E6530ADBADC00BD2247 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 42094E4130ADBADB00BD2247 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 42094E4830ADBADB00BD2247;
+			remoteInfo = autowallpaper;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		42094E4930ADBADB00BD2247 /* autowallpaper.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = autowallpaper.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		42094E5A30ADBADC00BD2247 /* autowallpaperTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = autowallpaperTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		42094E6430ADBADC00BD2247 /* autowallpaperUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = autowallpaperUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		42094E4B30ADBADB00BD2247 /* autowallpaper */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = autowallpaper;
+			sourceTree = "<group>";
+		};
+		42094E5D30ADBADC00BD2247 /* autowallpaperTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = autowallpaperTests;
+			sourceTree = "<group>";
+		};
+		42094E6730ADBADC00BD2247 /* autowallpaperUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = autowallpaperUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		42094E4630ADBADB00BD2247 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		42094E5730ADBADC00BD2247 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		42094E6130ADBADC00BD2247 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		42094E4030ADBADB00BD2247 = {
+			isa = PBXGroup;
+			children = (
+				42094E4B30ADBADB00BD2247 /* autowallpaper */,
+				42094E5D30ADBADC00BD2247 /* autowallpaperTests */,
+				42094E6730ADBADC00BD2247 /* autowallpaperUITests */,
+				42094E4A30ADBADB00BD2247 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		42094E4A30ADBADB00BD2247 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				42094E4930ADBADB00BD2247 /* autowallpaper.app */,
+				42094E5A30ADBADC00BD2247 /* autowallpaperTests.xctest */,
+				42094E6430ADBADC00BD2247 /* autowallpaperUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		42094E4830ADBADB00BD2247 /* autowallpaper */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 42094E6E30ADBADD00BD2247 /* Build configuration list for PBXNativeTarget "autowallpaper" */;
+			buildPhases = (
+				42094E4530ADBADB00BD2247 /* Sources */,
+				42094E4630ADBADB00BD2247 /* Frameworks */,
+				42094E4730ADBADB00BD2247 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				42094E4B30ADBADB00BD2247 /* autowallpaper */,
+			);
+			name = autowallpaper;
+			packageProductDependencies = (
+			);
+			productName = autowallpaper;
+			productReference = 42094E4930ADBADB00BD2247 /* autowallpaper.app */;
+			productType = "com.apple.product-type.application";
+		};
+		42094E5930ADBADC00BD2247 /* autowallpaperTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 42094E7130ADBADD00BD2247 /* Build configuration list for PBXNativeTarget "autowallpaperTests" */;
+			buildPhases = (
+				42094E5630ADBADC00BD2247 /* Sources */,
+				42094E5730ADBADC00BD2247 /* Frameworks */,
+				42094E5830ADBADC00BD2247 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				42094E5C30ADBADC00BD2247 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				42094E5D30ADBADC00BD2247 /* autowallpaperTests */,
+			);
+			name = autowallpaperTests;
+			packageProductDependencies = (
+			);
+			productName = autowallpaperTests;
+			productReference = 42094E5A30ADBADC00BD2247 /* autowallpaperTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		42094E6330ADBADC00BD2247 /* autowallpaperUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 42094E7430ADBADD00BD2247 /* Build configuration list for PBXNativeTarget "autowallpaperUITests" */;
+			buildPhases = (
+				42094E6030ADBADC00BD2247 /* Sources */,
+				42094E6130ADBADC00BD2247 /* Frameworks */,
+				42094E6230ADBADC00BD2247 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				42094E6630ADBADC00BD2247 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				42094E6730ADBADC00BD2247 /* autowallpaperUITests */,
+			);
+			name = autowallpaperUITests;
+			packageProductDependencies = (
+			);
+			productName = autowallpaperUITests;
+			productReference = 42094E6430ADBADC00BD2247 /* autowallpaperUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		42094E4130ADBADB00BD2247 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					42094E4830ADBADB00BD2247 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					42094E5930ADBADC00BD2247 = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 42094E4830ADBADB00BD2247;
+					};
+					42094E6330ADBADC00BD2247 = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 42094E4830ADBADB00BD2247;
+					};
+				};
+			};
+			buildConfigurationList = 42094E4430ADBADB00BD2247 /* Build configuration list for PBXProject "autowallpaper" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 42094E4030ADBADB00BD2247;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 42094E4A30ADBADB00BD2247 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				42094E4830ADBADB00BD2247 /* autowallpaper */,
+				42094E5930ADBADC00BD2247 /* autowallpaperTests */,
+				42094E6330ADBADC00BD2247 /* autowallpaperUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		42094E4730ADBADB00BD2247 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		42094E5830ADBADC00BD2247 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		42094E6230ADBADC00BD2247 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		42094E4530ADBADB00BD2247 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		42094E5630ADBADC00BD2247 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		42094E6030ADBADC00BD2247 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		42094E5C30ADBADC00BD2247 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 42094E4830ADBADB00BD2247 /* autowallpaper */;
+			targetProxy = 42094E5B30ADBADC00BD2247 /* PBXContainerItemProxy */;
+		};
+		42094E6630ADBADC00BD2247 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 42094E4830ADBADB00BD2247 /* autowallpaper */;
+			targetProxy = 42094E6530ADBADC00BD2247 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		42094E6C30ADBADD00BD2247 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		42094E6D30ADBADD00BD2247 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEAD_CODE_STRIPPING = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEPLOYMENT_POSTPROCESSING = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				STRIP_INSTALLED_PRODUCT = YES;
+				STRIP_STYLE = "non-global";
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-Osize";
+			};
+			name = Release;
+		};
+		42094E6F30ADBADD00BD2247 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = autowallpaper/autowallpaper.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"autowallpaper/Preview Content\"";
+				DEVELOPMENT_TEAM = NZ9XG5NDA7;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleIconFile = AppIcon;
+				INFOPLIST_KEY_CFBundleIconName = AppIcon;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSLocationUsageDescription = "需要获取您的地理位置以精确计算当地的日出和日落时间，从而自动切换对应的航拍壁纸。";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "需要获取您的地理位置以精确计算当地的日出和日落时间，从而自动切换对应的航拍壁纸。";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = firemount.autowallpaper;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		42094E7030ADBADD00BD2247 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = autowallpaper/autowallpaper.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"autowallpaper/Preview Content\"";
+				DEVELOPMENT_TEAM = NZ9XG5NDA7;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleIconFile = AppIcon;
+				INFOPLIST_KEY_CFBundleIconName = AppIcon;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSLocationUsageDescription = "需要获取您的地理位置以精确计算当地的日出和日落时间，从而自动切换对应的航拍壁纸。";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "需要获取您的地理位置以精确计算当地的日出和日落时间，从而自动切换对应的航拍壁纸。";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = firemount.autowallpaper;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		42094E7230ADBADD00BD2247 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = NZ9XG5NDA7;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = firemount.autowallpaperTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/autowallpaper.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/autowallpaper";
+			};
+			name = Debug;
+		};
+		42094E7330ADBADD00BD2247 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = NZ9XG5NDA7;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = firemount.autowallpaperTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/autowallpaper.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/autowallpaper";
+			};
+			name = Release;
+		};
+		42094E7530ADBADD00BD2247 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = NZ9XG5NDA7;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = firemount.autowallpaperUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = autowallpaper;
+			};
+			name = Debug;
+		};
+		42094E7630ADBADD00BD2247 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = NZ9XG5NDA7;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = firemount.autowallpaperUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = autowallpaper;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		42094E4430ADBADB00BD2247 /* Build configuration list for PBXProject "autowallpaper" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				42094E6C30ADBADD00BD2247 /* Debug */,
+				42094E6D30ADBADD00BD2247 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		42094E6E30ADBADD00BD2247 /* Build configuration list for PBXNativeTarget "autowallpaper" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				42094E6F30ADBADD00BD2247 /* Debug */,
+				42094E7030ADBADD00BD2247 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		42094E7130ADBADD00BD2247 /* Build configuration list for PBXNativeTarget "autowallpaperTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				42094E7230ADBADD00BD2247 /* Debug */,
+				42094E7330ADBADD00BD2247 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		42094E7430ADBADD00BD2247 /* Build configuration list for PBXNativeTarget "autowallpaperUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				42094E7530ADBADD00BD2247 /* Debug */,
+				42094E7630ADBADD00BD2247 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 42094E4130ADBADB00BD2247 /* Project object */;
+}
